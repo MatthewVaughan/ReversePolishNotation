@@ -1,0 +1,4 @@
+﻿  Calc.cpp
+c:\users\mattm_000\documents\visual studio 2015\projects\cs2420\postfixstack\postfixstack\calc.cpp(58): warning C4101: 'num': unreferenced local variable
+  PostFixStack.vcxproj -> C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS2420\PostFixStack\Debug\PostFixStack.exe
+  PostFixStack.vcxproj -> C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\CS2420\PostFixStack\Debug\PostFixStack.pdb (Partial PDB)
